@@ -1,0 +1,29 @@
+_repo: Grand-ther-Baldwin-s-Thanksgiving-with-Other-Ballads-and-Poems_1919
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio
+    aliases:
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    - Starr, Julian
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1919'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- GITenberg
+title: Grand'ther Baldwin's Thanksgiving, with Other Ballads and Poems
+url: http://www.gutenberg.org/ebooks/1919
